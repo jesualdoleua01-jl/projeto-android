@@ -1,3 +1,3 @@
 # Projeto-android
 
-Aprendendo a elaborar criação de um site
+Aprendendo a elaborar construção de um site
